@@ -1,5 +1,5 @@
  
-set project_name "lab3a"
+set project_name "lab4"
 create_project ${project_name} ./${project_name} -part xc7z020clg400-1 -force
 
 set proj_dir [get_property directory [current_project]]
